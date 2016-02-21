@@ -8,10 +8,25 @@
     "email": "nagarajhubli@gmail.com"
   },
   "contributors": [
-    { "name": "Larry Davis", "email":"lazd@lazd.net", "url":"https://github.com/lazd" },
-    { "name": "Aliaksei Sapach", "email":"dreamsonic@tut.by", "url":"https://github.com/asapach" },
-    { "name": "Chris Gladd", "email":"chris.m.gladd@gmail.com", "url":"https://github.com/chrisgladd" },
-    { "name": "Ritesh Manchanda", "url":"https://github.com/designjockey" }
+    {
+      "name": "Larry Davis",
+      "email": "lazd@lazd.net",
+      "url": "https://github.com/lazd"
+    },
+    {
+      "name": "Aliaksei Sapach",
+      "email": "dreamsonic@tut.by",
+      "url": "https://github.com/asapach"
+    },
+    {
+      "name": "Chris Gladd",
+      "email": "chris.m.gladd@gmail.com",
+      "url": "https://github.com/chrisgladd"
+    },
+    {
+      "name": "Ritesh Manchanda",
+      "url": "https://github.com/designjockey"
+    }
   ],
   "repository": {
     "type": "git",
@@ -47,7 +62,7 @@
   },
   "peerDependencies": {
     "phantomjs": "~1.9.2-2",
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin",
